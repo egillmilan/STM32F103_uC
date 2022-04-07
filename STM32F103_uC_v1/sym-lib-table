@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "STM32F103_uC")(type "KiCad")(uri "${KIPRJMOD}/Libraries/STM32F103_uC.kicad_sym")(options "")(descr ""))
+)
